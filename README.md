@@ -66,7 +66,8 @@ The dataset used for this analysis comes from **Maven Analytics Data Playground*
 🔗 [Bank Customer Churn Dataset](https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&search=bank%20churn)
 
 ## 📷 Dashboard Screenshot
-![Bank Customer Churn Dashboard](https://github.com/user-attachments/assets/07082f27-3b03-465d-8540-a513f058b6c5)
+![Bank Customer Churn Dashboard](https://github.com/user-attachments/assets/aeceeece-b161-43d4-b9ec-b7abf6044de5)
+
 
 ## 🔎 How to Use the Project
 1. Open the **Bank Customer Churn (Data Analysis).xlsx** file in **Excel**.
